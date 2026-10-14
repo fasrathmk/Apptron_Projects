@@ -1,0 +1,36 @@
+
+nav {
+  gap: 20px;
+}
+
+nav a:hover {
+  color: #4c852e;
+}
+
+
+h1 {
+  max-width: 650px;
+  font-size: 48px;
+  line-height: 1.2;
+}
+
+h1 span {
+  color: #4c852e;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 24px;
+  border-radius: 25px;
+  background-color: #37752d;
+  color: white;
+}
+
+.button:hover {
+  background-color: #285922;
+}
+
+.section {
+  padding: 40px 8%;
+}
