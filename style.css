@@ -1,6 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 8%;
+}
 
 nav {
+  display: flex;
   gap: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333333;
 }
 
 nav a:hover {
